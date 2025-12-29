@@ -1,6 +1,6 @@
 ## Hi, I'm Dayeon 👋
-I’m a graduate student in AI at Duke University. 
-I like working on practical ML problems like prediction systems and LLM based tools. I build applied machine learning and AI systems.
+I work on applied machine learning and AI systems, with a background in AI from Duke University.  
+I like working on practical problems like prediction models and LLM based tools.
 
 ### Featured Projects
 
@@ -22,8 +22,9 @@ Docker
 ### How to reach me:
 
 GitHub: https://github.com/dayeon3117  
-LinkedIn: https://www.linkedin.com/in/dayeonkang1207/
+LinkedIn: https://www.linkedin.com/in/dayeonkang1207
 Email: dayeon3117@outlook.com
+
 
 <!--
 **dayeon3117/dayeon3117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
