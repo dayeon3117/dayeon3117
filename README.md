@@ -4,10 +4,10 @@ I like working on practical problems like prediction models and LLM based tools.
 
 ### Featured Projects
 
-Churn Prediction System  
+1. Churn Prediction System  
 Machine learning pipeline for customer churn modeling and evaluation.
 
-RAG Experiments  
+2. RAG Experiments  
 LLM based retrieval augmented generation prototypes.
 
 ### Tech I use
